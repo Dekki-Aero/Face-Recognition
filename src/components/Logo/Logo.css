@@ -1,0 +1,7 @@
+.Tilt {
+    /* background: linear-gradient(90deg, rgba(0, 36, 33, 1) 0%, rgba(9, 96, 121, 1) 39%, rgba(0, 212, 255, 1) 100%); */
+}
+
+img {
+    object-fit: fill;
+}
