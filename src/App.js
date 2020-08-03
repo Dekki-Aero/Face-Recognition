@@ -10,7 +10,7 @@ import { partclsOptns } from "./constants";
 import Clarifai from "clarifai";
 
 const app = new Clarifai.App({
-  apiKey: "api_key_from_clarifai",
+  apiKey: "e883ddd9fa7e43cfbf61b2c541b67139",
 });
 
 class App extends Component {
