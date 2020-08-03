@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Face-Recognition-website/static/css/main.c0b08c81.chunk.css",
-    "main.js": "/Face-Recognition-website/static/js/main.da707a2f.chunk.js",
-    "main.js.map": "/Face-Recognition-website/static/js/main.da707a2f.chunk.js.map",
+    "main.css": "/Face-Recognition-website/static/css/main.6bde7e0e.chunk.css",
+    "main.js": "/Face-Recognition-website/static/js/main.35e669ac.chunk.js",
+    "main.js.map": "/Face-Recognition-website/static/js/main.35e669ac.chunk.js.map",
     "runtime-main.js": "/Face-Recognition-website/static/js/runtime-main.c74bb378.js",
     "runtime-main.js.map": "/Face-Recognition-website/static/js/runtime-main.c74bb378.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Face-Recognition-website/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.1c851c35.chunk.js": "/Face-Recognition-website/static/js/2.1c851c35.chunk.js",
-    "static/js/2.1c851c35.chunk.js.map": "/Face-Recognition-website/static/js/2.1c851c35.chunk.js.map",
+    "static/js/2.75631ce5.chunk.js": "/Face-Recognition-website/static/js/2.75631ce5.chunk.js",
+    "static/js/2.75631ce5.chunk.js.map": "/Face-Recognition-website/static/js/2.75631ce5.chunk.js.map",
     "index.html": "/Face-Recognition-website/index.html",
-    "precache-manifest.05a1c530c6ba80f9568edc784585193e.js": "/Face-Recognition-website/precache-manifest.05a1c530c6ba80f9568edc784585193e.js",
+    "precache-manifest.0b62a2a06a40c00ed2c15a0cfa27478c.js": "/Face-Recognition-website/precache-manifest.0b62a2a06a40c00ed2c15a0cfa27478c.js",
     "service-worker.js": "/Face-Recognition-website/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Face-Recognition-website/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.c0b08c81.chunk.css.map": "/Face-Recognition-website/static/css/main.c0b08c81.chunk.css.map",
-    "static/js/2.1c851c35.chunk.js.LICENSE.txt": "/Face-Recognition-website/static/js/2.1c851c35.chunk.js.LICENSE.txt",
+    "static/css/main.6bde7e0e.chunk.css.map": "/Face-Recognition-website/static/css/main.6bde7e0e.chunk.css.map",
+    "static/js/2.75631ce5.chunk.js.LICENSE.txt": "/Face-Recognition-website/static/js/2.75631ce5.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/Face-Recognition-website/static/media/logo.27777662.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c74bb378.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.1c851c35.chunk.js",
-    "static/css/main.c0b08c81.chunk.css",
-    "static/js/main.da707a2f.chunk.js"
+    "static/js/2.75631ce5.chunk.js",
+    "static/css/main.6bde7e0e.chunk.css",
+    "static/js/main.35e669ac.chunk.js"
   ]
 }
